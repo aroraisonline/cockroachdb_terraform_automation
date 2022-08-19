@@ -1,4 +1,5 @@
 # cockroachdb_terraform_automation
+Imp. Note: The code is not here yet. will be adding soon. 
 This Project includes some bash scripts and terraform to build and destroy 3 node cluster of cockroachdb in aws on https(secured) and http(unsecured)
 
 1.) please extract this tar
